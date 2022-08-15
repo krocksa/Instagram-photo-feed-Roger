@@ -1,0 +1,87 @@
+body {
+	background: black;
+}
+.photo {
+	background: grey;
+	width: 1200px;
+	height: 2390px;
+	margin: auto;
+}
+.header{
+    background: white;
+    text-align: center;
+    height: 80px;
+}
+.scroll-header{
+    display: flex;
+}
+.col-1{
+    background: white;
+    width: 550px;
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.right{
+    width: 98%;
+}
+.right,.left,.footer{
+    padding: 10px;
+}
+.scroll-1 img{
+    align-items: center;
+    width: 100%;
+    height: 72.5%;
+}
+.col-2{
+    background: white;
+    width: 550px;
+    height:650px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.scroll-2 img{
+    align-items: center;
+    width: 100%;
+    height: 87%;
+}
+.scroll-2 footer{
+    height: 5%;
+}
+
+.col-3{
+    background: white;
+    width: 550px;
+    height:450px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.scroll-3 img{
+    align-items: center;
+    width: 100%;
+    height: 77%;
+}
+.scroll-3 footer{
+    height: 5%;
+}
+
+.col-4{
+    background: white;
+    width: 550px;
+    height:550px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.scroll-4 img{
+    margin-top: 13%;
+    align-items: center;
+    width: 100%;
+    height: 58%;
+}
+.scroll-4 footer{
+    height: 5%;
+}
